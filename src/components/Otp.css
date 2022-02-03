@@ -1,0 +1,81 @@
+.logo{
+    position: absolute;
+    left: 32.53%;
+    right: 32.4%;
+    top: 12.32%;
+    bottom: 70.69%;
+    
+}
+.verify-text{
+    position: absolute;
+left: 25.53%;
+right: 13.33%;
+top: 35.59%;
+bottom: 61.58%;
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #333333;
+
+}
+.otp-sent{
+    
+position: absolute;
+left: 25.13%;
+right: 16.53%;
+top: 43.47%;
+bottom: 54.19%;
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #666666;
+}
+.change-number{
+position:absolute;
+left: 25.73%;
+margin-left: 40px;
+top: 48.52%;
+bottom: 51.48%;
+border-bottom-color: orange;
+}
+.otp-field-box{
+position: absolute;
+left: 16.27%;
+right: 16.53%;
+top: 58.87%;
+bottom: 35.22%;
+justify-self: center;
+}
+.button{
+    background-color:  #F7B348;
+    border-radius: 100px;
+    color: #FFFFFF;
+    
+position: absolute;
+width: 224px;
+height: 36px;
+left: calc(50% - 224px/2 - 0.5px);
+top: calc(50% - 36px/2 + 270px);
+bottom: 15.52%;
+border:none;
+}
+.input-field{
+    position: absolute;
+left: 30.27%;
+right: 16.53%;
+top: 58.87%;
+bottom: 35.22%;
+box-sizing: content-box;
+
+
+}

@@ -1,0 +1,172 @@
+.react{
+    position: absolute;
+width: 237px;
+height: 67px;
+left: 70px;
+top: 317px;
+/* Welcome Back */
+
+
+position: absolute;
+width: 174px;
+height: 28px;
+left: calc(50% - 174px/2 + 0.5px);
+top: calc(50% - 28px/2 - 75px);
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+}
+.signin-yourself{
+    position: absolute;
+width: 237px;
+height: 19px;
+left: calc(50% - 237px/2 + 1px);
+top: calc(50% - 19px/2 - 31.5px);
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+/* font-size: 16px;
+line-height: 19px;
+left:40px; */
+
+/* identical to box height */
+color: #666666;
+
+
+}
+.inputbox{
+    position: absolute;
+    width: 134px;
+    height: 14px;
+    left: calc(50% - 134px/2 - 90.5px);
+    top: calc(50% - 14px/2 + 46px);
+    
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+    margin-left: 30px;
+    
+    color: #999999;
+    
+}   
+.input-box{
+    position: absolute;
+width: 343px;
+height: 44px;
+left: calc(50% - 343px/2);
+top: calc(50% - 44px/2 + 68px);
+
+border: 1px solid #FFD37D;
+box-sizing: border-box;
+border-radius: 5px;
+} 
+.logo{
+    position: absolute;
+width: 264px;
+height: 50px;
+left: calc(50% - 264px/2 - 0.5px);
+top: calc(50% - 50px/2 - 225px);
+
+
+}
+.otp-alert{
+    
+position: absolute;
+width: 252px;
+height: 28px;
+left: calc(50% - 254px/2);
+top: calc(50% - 28px/2 + 135px);
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #999999;
+
+
+}
+.inputbox-main{
+    position: absolute;
+width: 343px;
+height: 51px;
+left: 16px;
+top: 445px;
+}
+.inputbox-header{
+    
+    position: absolute;
+    width: 144px;
+    height: 15px;
+    left: 26px;
+    top: 445px;
+}
+.contact-text{
+    position:fixed;
+width: 134px;
+height: 14px;
+left: calc(50% - 134px/2 - 90.5px);
+top: calc(50% - 14px/2 + 46px);
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #999999;
+}
+.inputbox-1{
+position:absolute;
+width: 343px;
+height: 44px;
+ left: calc(50% - 378px/2);
+top: calc(50% - 44px/2 + 80px);  
+
+border: 1px solid #FFD37D;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.button {
+    background-color:  #F7B348;
+    border-radius: 100px;
+    color: #FFFFFF;
+    
+position: absolute;
+width: 224px;
+height: 36px;
+left: calc(50% - 224px/2 - 0.5px);
+top: calc(50% - 36px/2 + 270px);
+bottom: 15.52%;
+border:none;
+
+  }
+  .phone-number{
+width: 262px;
+height: 30px;
+left: calc(50% - 105px/2 - 17px);
+top: calc(50% - 21px/2 + 67.5px);
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 21px;
+
+color: #333333;
+
+
+  }
